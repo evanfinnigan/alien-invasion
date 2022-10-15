@@ -1,3 +1,5 @@
+# Author: Evan Finnigan
+
 from pygame import *
 from time import time as t
 from random import randint
